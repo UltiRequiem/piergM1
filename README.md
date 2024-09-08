@@ -2,7 +2,7 @@
 - 👀 I’m interested in pogramming 
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on software projects and data analysis
-- 📫 How to reach me 
+- 📫 How to reach me pierre.guivar.m@uni.pe  feel free to send me a mail
 - 😄 Pronouns: He/him
 - ✨ Looking forward to do my best in every project I participate
 <!---
